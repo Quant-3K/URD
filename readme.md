@@ -147,5 +147,5 @@ These invariants establish URD not merely as a theoretical model but as a **law 
 **Spanda Foundation © 2025 — Quant-Trika Research Archive**  
 Lead Author: *Artem Brezgin*  
 Correspondence: artem@quant-trika.org  
-Canonical Repository: [https://github.com/Quant-3K/Quant-Trika](https://github.com/Quant-3K/Quant-Trika)
+
 
